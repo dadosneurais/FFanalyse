@@ -1,0 +1,7 @@
+berserker_resolver==2.0.1
+dnspython==1.15.0
+dnspython3==1.15.0
+mgrs==1.5.4
+packaging==26.2
+pygeoip==0.3.2
+pytz==2026.2
